@@ -1,0 +1,170 @@
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'df' referenced before assignment
+local variable 'dff' referenced before assignment
+local variable 'dff' referenced before assignment
+local variable 'dff' referenced before assignment
+local variable 'dff' referenced before assignment
+local variable 'dff' referenced before assignment
+name 'dff' is not defined
+window must be an integer 0 or greater
+window must be an integer 0 or greater
+min() arg is an empty sequence
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedColumn) column "id" does not exist
+LINE 1: ...ject,sender,snippet,sentiment FROM messages ORDER BY id DESC
+                                                                ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5555 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5555 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+(psycopg2.errors.UndefinedTable) relation "messages" does not exist
+LINE 1: SELECT date,subject,sender,snippet,sentiment FROM messages O...
+                                                          ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id ASC, date ASC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.UndefinedTable) relation "messages" does not exist
+LINE 1: SELECT date,subject,sender,snippet,sentiment FROM messages O...
+                                                          ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY id ASC, date ASC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near ","
+LINE 1: ...t,sender,snippet,sentiment FROM messages ORDER BY , date DES...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY , date DESC]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at end of input
+LINE 1: ...er,snippet,sentiment FROM messages ORDER BY date DESC LIMIT 
+                                                                       ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY date DESC LIMIT ]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at end of input
+LINE 1: ...er,snippet,sentiment FROM messages ORDER BY date DESC limit 
+                                                                       ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY date DESC limit ]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at end of input
+LINE 1: ...er,snippet,sentiment FROM messages ORDER BY date DESC limit 
+                                                                       ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY date DESC limit ]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at end of input
+LINE 1: ...er,snippet,sentiment FROM messages ORDER BY date DESC limit 
+                                                                       ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages ORDER BY date DESC limit ]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near "BY"
+LINE 1: ...r,snippet,sentiment FROM messages where dateORDER BY date DE...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages where dateORDER BY date DESC limit 15]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near "T17"
+LINE 1: ...pet,sentiment FROM messages where date> 2022-07-10T17:31:43O...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages where date> 2022-07-10T17:31:43ORDER BY date DESC limit 15]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near "T17"
+LINE 1: ...pet,sentiment FROM messages where date> 2022-07-10T17:31:43 ...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages where date> 2022-07-10T17:31:43 ORDER BY date DESC limit 15]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near "T17"
+LINE 1: ...et,sentiment FROM messages where date > 2022-07-10T17:31:43 ...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages where date > 2022-07-10T17:31:43 ORDER BY date DESC limit 15]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.errors.SyntaxError) syntax error at or near "T17"
+LINE 1: ...et,sentiment FROM messages WHERE date > 2022-07-10T17:31:43 ...
+                                                             ^
+
+[SQL: SELECT date,subject,sender,snippet,sentiment FROM messages WHERE date > 2022-07-10T17:31:43 ORDER BY date DESC limit 15]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+(psycopg2.OperationalError) connection to server at "localhost" (::1), port 5555 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5555 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/14/e3q8)

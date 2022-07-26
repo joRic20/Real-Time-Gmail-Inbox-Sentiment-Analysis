@@ -1,0 +1,35 @@
+version: '3'
+services:
+    mongodb:
+        image: mongo
+        ports:
+        - 27017:27017
+
+    email_collector:
+        build: email_collector/ 
+        volumes: 
+        - ./email_collector/:/app/
+        depends_on:
+        - mongodb
+        
+
+    etl_job:
+        build: etl_job/
+        volumes:
+        - ./etl_job/:/app/
+        depends_on:
+        - mongodb
+        - postgresdb
+    
+    postgresdb:
+        image: postgres
+        ports:
+        - 5555:5432
+        environment:
+        - POSTGRES_USER=joric
+        - POSTGRES_PASSWORD=0809
+        - POSTGRES_DB=gmail
+
+        volumes:
+        - ./etl_job/psql:/var/lib/postgresql
+    
