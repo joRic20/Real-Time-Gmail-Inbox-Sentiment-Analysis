@@ -43,7 +43,7 @@ This project calculates sentiments score for snippet of every gmail messages in 
 
 
 ## Basic Workflow Overviewc
-![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Basic%20Workflow%20Overview.png?token=GHSAT0AAAAAABW7676HG6JBAN2WVPX2SJNMYXMQLBA)
+![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Basic%20Workflow%20Overview.png?token=GHSAT0AAAAAABW7676GJWCOWBCWCSLG4UOYYXMQWEQ)
 
 
 ## Deployment
