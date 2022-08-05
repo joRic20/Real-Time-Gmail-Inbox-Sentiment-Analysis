@@ -67,4 +67,4 @@ To deploy this project:
 
 ## Screenshot of the Plotly Dashboard
 
-![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Screenshot%20of%20local%20app.png?token=GHSAT0AAAAAABW7676GJZEYBW77PDB2B2AQYXMQLIA)
+![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Screenshot%20of%20local%20app.png?token=GHSAT0AAAAAABW7676GMBNHEB4QJ2DX6Y4CYXMQX7Q)
