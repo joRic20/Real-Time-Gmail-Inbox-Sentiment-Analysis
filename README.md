@@ -42,6 +42,8 @@ This project calculates sentiments score for snippet of every gmail messages in 
  
 
 
+## Basic Workflow Overviewc
+![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Basic%20Workflow%20Overview.png?token=GHSAT0AAAAAABW7676HG6JBAN2WVPX2SJNMYXMQLBA)
 
 
 ## Deployment
@@ -62,10 +64,7 @@ To deploy this project:
   python app.py
 ```
 
-## Screenshot of predicted images
-- Basic Workflow Overviewc
-![App Screenshot](https://raw.githubusercontent.com/joRic20/CNN_and-Keras_for_Image-classification/main/Screenshot%202022-06-21%20at%2015.08.24.png)
 
-## Screenshot of predicted images
+## Screenshot of the Plotly Dashboard
 
-![App Screenshot](https://raw.githubusercontent.com/joRic20/CNN_and-Keras_for_Image-classification/main/Screenshot%202022-06-21%20at%2015.08.24.png)
+![App Screenshot](https://raw.githubusercontent.com/joRic20/Real-Time-Gmail-Inbox-Sentiment-Analysis/main/Screenshot%20of%20local%20app.png?token=GHSAT0AAAAAABW7676GJZEYBW77PDB2B2AQYXMQLIA)
