@@ -1,5 +1,5 @@
 # Real-Time-Gmail-Inbox-Sentiment-Analysis
-This project calculates sentiments score for snippet of every gmail messages in in the inbox. This project can be implemented in any company irrespective of the industry. Benefits of such projects includes; Improved Customer Service, Development Quality Products and services, Discovering New Marketing Increasing Sales Revenue, Improved Crisis Management and etc. I am unable to deploy the app on the web since i use my personal email inbox as the dataset. I used Docker to run the ETL pipelines from start to finish.
+This project calculates sentiments score for snippet of every gmail messages in i the inbox. This project can be implemented in any company irrespective of the industry. Benefits of such projects includes; Improved Customer Service, Development of Quality Products and services, Discovering New Markets Increasing Sales Revenue, Improved Crisis Management and etc. I am unable to deploy the app on the web since i use my personal email inbox as the dataset. I used Docker to run the ETL pipelines from start to finish.
 
     
 # Database, Libraries, and Visualization Tools:
